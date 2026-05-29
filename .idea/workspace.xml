@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c21763-2dcf-4b2d-89b1-b93f66ccb486" name="Changes" comment="z,d,v,">
-      <change beforePath="$PROJECT_DIR$/.idea/01_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/02_vilkor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="51c21763-2dcf-4b2d-89b1-b93f66ccb486" name="Changes" comment="if" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +70,7 @@
       <updated>1779869548165</updated>
       <workItem from="1779869549400" duration="4615000" />
       <workItem from="1779874212110" duration="96000" />
-      <workItem from="1780038099728" duration="1558000" />
+      <workItem from="1780038099728" duration="2430000" />
     </task>
     <task id="LOCAL−00001" summary="jag gjorde det">
       <option name="closed" value="true" />
@@ -119,7 +114,21 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1779873562126</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="if">
+      <option name="closed" value="true" />
+      <created>1780039675199</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1780039675199</updated>
+    </task>
+    <task id="LOCAL−00008" summary="if">
+      <option name="closed" value="true" />
+      <created>1780040222439</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1780040222439</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +153,11 @@
     <MESSAGE value="initial workspace files" />
     <MESSAGE value="hej abbe" />
     <MESSAGE value="z,d,v," />
-    <option name="LAST_COMMIT_MESSAGE" value="z,d,v," />
+    <MESSAGE value="if" />
+    <option name="LAST_COMMIT_MESSAGE" value="if" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/01_intro$main.coverage" NAME="main Coverage Results" MODIFIED="1779873475388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/02_vilkor$main.coverage" NAME="main Coverage Results" MODIFIED="1780039333463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/02_vilkor$main.coverage" NAME="main Coverage Results" MODIFIED="1780040529827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
