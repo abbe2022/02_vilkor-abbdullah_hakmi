@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c21763-2dcf-4b2d-89b1-b93f66ccb486" name="Changes" comment="python highlite" />
+    <list default="true" id="51c21763-2dcf-4b2d-89b1-b93f66ccb486" name="Changes" comment="Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +73,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="Main" />
+    </force-push-targets>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="02_vilkor" />
@@ -122,7 +127,7 @@
       <workItem from="1779869549400" duration="4615000" />
       <workItem from="1779874212110" duration="96000" />
       <workItem from="1780038099728" duration="4254000" />
-      <workItem from="1780042406685" duration="3566000" />
+      <workItem from="1780042406685" duration="4217000" />
     </task>
     <task id="LOCAL−00001" summary="jag gjorde det">
       <option name="closed" value="true" />
@@ -250,7 +255,14 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1780045700398</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL−00019" summary="Readme">
+      <option name="closed" value="true" />
+      <created>1780046028501</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1780046028501</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +320,8 @@
     <MESSAGE value="uppdate worokspace.xml" />
     <MESSAGE value="hej fr[n pycharm" />
     <MESSAGE value="python highlite" />
-    <option name="LAST_COMMIT_MESSAGE" value="python highlite" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/01_intro$main.coverage" NAME="main Coverage Results" MODIFIED="1779873475388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
