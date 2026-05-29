@@ -2,9 +2,8 @@ print('hej abbe')
 print('den här appen skapas av mig abbe')
 
 
-z=555
-d=666
-
-
-
-v=25984
+balance=int(input('skriv in siffran'))
+if  0 < balance >= 1:
+    print('det finns pengar')
+else:
+    print('det finns inga pengar')
