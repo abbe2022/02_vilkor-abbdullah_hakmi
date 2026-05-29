@@ -7,3 +7,4 @@ if  0 < balance >= 1:
     print('det finns pengar')
 else:
     print('det finns inga pengar')
+print('hej hej')
